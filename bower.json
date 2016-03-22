@@ -1,0 +1,22 @@
+{
+  "name": "Kiran",
+  "homepage": "http://kiranjkurian.github.io/",
+  "authors": [
+    "Kiran Kurian <kiran.kurian@rutgers.edu>"
+  ],
+  "description": "Personal Website",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  }
+}
